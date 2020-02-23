@@ -4,8 +4,10 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page list the different work or projects done by me during mand after my studies in master of data science with CUNY. Please enjoy. Carry on!
+  Hey there! This page list the different work or projects done by me during and after my studies in master of data science with CUNY. Please enjoy. Carry on!
 </p>
+
+## What is Data Science?
 
 Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data. Data science is related to data mining and big data.
 
@@ -14,7 +16,7 @@ The term data science has existed for the better part of the last 30 years and w
 
 ## Setup
 
-Some fun facts about the setup of this project include:
+Some fun facts about the setup of this site include:
 
 * Built using [Jekyll](http://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
