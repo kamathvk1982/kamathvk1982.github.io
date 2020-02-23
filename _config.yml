@@ -6,7 +6,7 @@ relative_permalinks: false
 
 # Setup
 title:               'Vinayak Kamath'
-tagline:             'A Data Science Student and Enthusiast'
+tagline:             'Data Enthusiast'
 description:         'A site showcasing the work done by <a href="https://kamathvk1982.github.io/">VinayaK Kamath</a> in Data Science space. Made by using <a href="https://jekyll-themes.com/lanyon/" target="_blank">Jekyll theme Lanyon</a>.'
 url:                 https://kamathvk1982.github.io
 baseurl:             ''
