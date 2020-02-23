@@ -7,9 +7,6 @@ title: About
   Hey there! This page list the different work or projects done by me during and after my studies in master of data science with CUNY. Please enjoy. Carry on!
 </p>
 
-Effective leader with comprehensive technical and functional skills. Techno-Functional Analyst with 15 years of experience in information technology and project management in banking and financial domain with technical expertise in RDBMS, Oracle PL/SQL, Pro C, & subject matter expertise in Asset Management (information delivery-reference data), Corporate Banking, & Retail Mutual Fund business. Working across business, operations and technology to develop and execute Data Strategy, Data Quality and Data Migration initiatives. Experience in implementing effective Data Profiling and Data Mapping. 
-
-Currently working for Citi Group, USA in the role of Data Conversion Lead. Based out at Jersey City location.
 
 
 ## What is Data Science?
