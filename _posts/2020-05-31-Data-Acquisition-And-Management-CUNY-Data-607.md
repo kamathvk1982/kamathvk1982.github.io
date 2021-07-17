@@ -6,7 +6,9 @@ title: Data Acquisition And Management - CUNY Data 607
 ## Summary
 
 title: "Data607-Final-Project-Shiny App - State of the Union -Sentiment Analysis - Obama vs Trump"
+
 author: "Vinayak Kamath"
+
 date: "05/10/2020"
 
 # What is this app?
