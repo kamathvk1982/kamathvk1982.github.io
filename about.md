@@ -4,7 +4,9 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page list the different work or projects done by me during and after my studies in master of data science with CUNY. Please enjoy. Carry on!
+  Hey there! I am an Data Enthusiast with passion to use data in solving complex problems with effective Data Analysis and Experience in implementing effective Data Profiling and Data Mapping.
+
+  This page list the different work or projects done by me during and after my studies in master of data science with CUNY. Please enjoy. Carry on!
 </p>
 
 
