@@ -27,6 +27,6 @@ The stock market data are sourced from Macrotrends - The Premier Research Platfo
 As a next for this project, would work on error handling, extend for more years, make it user driven to decide on n-gram value for n.
 
 
-Shiny App Link: [State of the Union -Sentiment Analysis - Obama vs Trump](https(://kamathvk1982.shinyapps.io/MyStateOfUnionSentimentAnalysis/)
+Shiny App Link: [State of the Union -Sentiment Analysis - Obama vs Trump](https://kamathvk1982.shinyapps.io/MyStateOfUnionSentimentAnalysis/)
 
 GIT Repository: [Data607-Final-Project-Shiny App - State of the Union -Sentiment Analysis - Obama vs Trump](https://github.com/kamathvk1982/DATA-607-Project-Final)
