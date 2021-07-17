@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Data607-Week03-Assignment-Character Manipulation And Date Processing
+title: Statistics and Probability for Data Analytics - CUNY Data 606
 ---
 
 ## Summary
 
-title: "Data607-Week03-Assignment-Character Manipulation And Date Processing"
+title: Life Expentancy and Happiness
 author: "Vinayak Kamath"
-date: "2/12/2020"
-output:   
-    pdf_document:    extra_dependencies:    - geometry    - multicol    - multirow  
-    html_document:    df_print: paged
-Rpubs Link: [Data607-Week03-Assignment-Character Manipulation And Date Processing](https://rpubs.com/kamathvk1982/574253)
-Git Repository:  [Data607-Week03-Assignment-Character Manipulation And Date Processing](https://github.com/kamathvk1982/Data607-Week03)
+date: "3/27/2020"
+
+Life Expentancy and Happiness; We will use the following datasets from Kaggle on relating happiness with life expectancy. Life expectany could be linked ot many factors like monetory or physical needs or living condition or external factors with politics or like. Over here we will aim to corelate life expectnayc with happiness as a key factor.
+
+Rpubs Link: [Data606-Final Project-Life Expentancy and Happiness](https://rpubs.com/kamathvk1982/608186)
+Git Repository:  [Data606-Final Project-Life Expentancy and Happiness](https://github.com/kamathvk1982/Data606-FinalProject)
