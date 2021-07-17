@@ -44,6 +44,8 @@ Free Public Data Sets for Your Data Science Project:
 
 
 
-Have questions or suggestions? Feel free to drop me an [email](@vinayak.kamath92@spsmail.cuny.edu)
+
+Have questions or suggestions? Feel free to drop me an <a href="mailto:vinayak.kamath92@spsmail.cuny.edu">email</a>.
+
 
 Thanks for reading!
