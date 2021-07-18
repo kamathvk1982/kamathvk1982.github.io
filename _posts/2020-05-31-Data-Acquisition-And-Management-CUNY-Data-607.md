@@ -9,9 +9,11 @@ title: "Data607-Final-Project-Shiny App - State of the Union -Sentiment Analysis
 
 author: "Vinayak Kamath"
 
-date: "05/10/2020"
+date: "05/31/2020"
+
 
 # What is this app?
+
 This is a simple Shiny application created as part of the [DATA 607, Data Acquisition and Management] course offered by City University Of New York's (CUNY) Online Masters in Data Science.
 
 The app allows a user to explore president Trump's and Obama’s State of the Union address. Each president’s State of the Union address is an attempt to set the tone for his term in office — what are the administration’s goals, plans and promises? Those questions dominate the 24-hour news cycle around this yearly address to Congress and drives the stock market sentiments.

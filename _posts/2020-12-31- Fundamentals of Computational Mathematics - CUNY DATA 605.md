@@ -1,15 +1,19 @@
 ---
 layout: post
-title: Data607-Week01 Assignment - Basic Loading and Transformation
+title: Fundamentals of Computational Mathematics - CUNY DATA 605
 ---
 
 ## Summary
 
-title: "Data607-Week01 Assignment - Basic Loading and Transformation"
-author: "Vinayak Kamath"
-date: "1/31/2020"
-output:  
-    html_document:    df_print: paged 
-    pdf_document:    extra_dependencies:    - geometry    - multicol    - multirow
+title: "Data605-Final Project-Computational Mathematics - Advanced Regression Techniques"
 
-Rpubs Link: [Data607-Week01 Assignment - Basic Loading and Transformation](https://rpubs.com/kamathvk1982/570891)
+author: "Vinayak Kamath"
+
+date: "12/31/2020"
+
+Kaggle.com (free) and compete in the House Prices: Advanced Regression Techniques competition.  https://www.kaggle.com/c/house-prices-advanced-regression-techniques 
+
+
+Rpubs Link: [Data605-Final Project-Computational Mathematics - Advanced Regression Techniques](https://rpubs.com/kamathvk1982/Data605-FinalProject)
+
+Git Repository: [Data605-Final Project-Computational Mathematics](https://github.com/kamathvk1982/Data605/blob/master/WeekFinal/HWFinal/VKamath_AssignFinal.rmd)
