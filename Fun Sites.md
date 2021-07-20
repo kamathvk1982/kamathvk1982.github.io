@@ -27,6 +27,10 @@ Programing in R:
 [dbdiagram.io](https://dbdiagram.io/d) is a quick and simple tool built by holistics.io folks to help you draw your database relationship diagrams and flow quickly using simple DSL language. (p.s.: Works best with Google Chrome.)
 
 
+## miro - Online DashBoard
+
+[Miro](https://miro.com/app/dashboard/): "The online whiteboard for easy collaboration. Miro is a fast, free, and simple-to-use online whiteboard built to help you collaborate with others any time, anywhere. Miro’s infinite canvas gives you the freedom to choose how you use it to work with your team. Whether you’re hosting a digital brainstorm, documenting a meeting, teaching a class, or managing an agile workflow, the possibilities for collaboration are endless."
+
 
 ## Data Sets 
 
